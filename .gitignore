@@ -1,0 +1,15 @@
+# Environment files
+.env
+
+# Backup and data files
+backup.pastfile.json
+pastfile.json
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore specific Python scripts
+ts.py
+try.py
